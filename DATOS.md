@@ -1,6 +1,6 @@
 # Documentacion de Recogida de Datos
 
-**Alumno:** Jorge Izquierdo, David García y Juan Leal
+**Alumno:**  Jorge Izquierdo, David García y Juan Leal
 
 ## Formato del CSV
 
